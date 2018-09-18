@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bubble_me">#0084ff</color>
+    <color name="bubble_you">#f1f0f0</color>
+    <color name="name">#777777</color>
+
+    <color name="btn_send_normal">#02c754</color>
+    <color name="btn_send_pressed">#006633</color>
+    <color name="btn_default_shadow">#99000000</color>
+    <color name="colorPrimary">#01a4df</color>
+    <color name="colorPrimaryDark">#1184d2</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="lightbluecolor">#01a4df</color>
+    <color name="Darkbluecolor">#1184d2</color>
+    <color name="hintcolor">#E0E0E0</color>
+    <color name="editTextcolor">#ffffff</color>
+    <color name="textcolor">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="yellow">#EBDF00</color>
+    <color name="white">#fff</color>
+    <color name="red">#ef2929</color>
+    <color name="green">#73d216</color>
+    <color name="green_mehandi">#7e7b15</color>
+    <color name="grey">#bbbbbb</color>
+    <color name="lightgrey">#f9f9f9</color>
+    <color name="transpr">#7Fffffff</color>
+
+</resources>
