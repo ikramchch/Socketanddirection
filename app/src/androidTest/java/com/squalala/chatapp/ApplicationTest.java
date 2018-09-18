@@ -11,8 +11,5 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
         super(Application.class);
     }
    
-  public void testingMethod()
-  {
-      int i=0;
-  }
+
 }
