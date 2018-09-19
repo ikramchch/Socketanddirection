@@ -144,6 +144,9 @@ public class MapsSimple extends AppCompatActivity implements OnMapReadyCallback,
 
                         Double lat=Double.parseDouble(separated[0]);
                         Double lng=Double.parseDouble(separated[1]);
+
+
+
                          LatLng oldMarkerLatlng=m2.getPosition();
                          Double oldLat=oldMarkerLatlng.latitude;
                          Double oldLng=oldMarkerLatlng.longitude;
